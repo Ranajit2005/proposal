@@ -1,0 +1,40 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    background-color: #f5fff7;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 3%;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    /* padding: 15px; */
+}
+
+.qs{
+    text-align: center;
+}
+
+img{
+    height: 300px;
+    width: 300px;
+}
+
