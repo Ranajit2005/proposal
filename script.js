@@ -11,11 +11,13 @@ function move() {
 
     no.style.left = randomX + 'px';
     no.style.top = randomY + 'px';
-    // no.style.padding.left = 30 + 'px';
-    // no.style.padding.right = 30 + 'px';
+
 }
 
 no.addEventListener('mouseenter', function (){
     move();
 });
 
+yes.addEventListener("click", function () {
+    window.location.href = "./accept.html";
+});
