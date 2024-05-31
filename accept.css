@@ -31,6 +31,8 @@ body{
 
 h3,p{
     padding: 10px;
+    padding-left: auto;
+    padding-right: auto;
 }
 
 .qs{
