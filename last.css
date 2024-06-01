@@ -48,6 +48,8 @@ img{
 #no{    
     position: absolute;
     right: 15%;
+    height: 35px;
+    width: 90px;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 10px;
