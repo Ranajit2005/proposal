@@ -36,6 +36,8 @@ img{
 #yes{
     position: absolute;
     left: 15%;
+    height: 35px;
+    width: 90px;
     padding-left: 30px;
     padding-right: 30px;
     padding-top: 10px;
