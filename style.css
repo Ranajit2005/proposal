@@ -3,6 +3,7 @@
     padding: 0px;
     box-sizing: border-box;
     /* overflow: hidden; */
+    height: 100%;
 }
 
 *{
@@ -22,6 +23,7 @@ body{
     /* top: 30px; */
     display: flex;
     flex-direction: column;
+    height: 70%;
     /* background-color: #1ff018; */
     /* border: 3px solid white; */
     padding: 15px;
@@ -31,6 +33,7 @@ body{
     justify-content: space-evenly;
     padding: 15px;
     position: relative;
+    height: 30px;
 }
 
 #yes{
